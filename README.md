@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Umer-Siddiqi
-- 👀 I’m interested in Application Development(Flutter)
+- 👀 I’m interested in Application Development Java.
 - 🌱 I’m currently learning Computer Science from DHA Suffa University
 
 <!---
