@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Umer-Siddiqi
-- 👀 I’m interested in Application Development Java.
+- 👀 I’m interested in Java Application Development.
 - 🌱 I’m currently learning Computer Science from DHA Suffa University
 
 <!---
